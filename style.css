@@ -17,12 +17,11 @@ div {
   font-size: 18px;
   color: white;
 }
-}
 
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
+  float: center;
   width: 180px;
 }
 
