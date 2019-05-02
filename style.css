@@ -1,12 +1,13 @@
 body {
-    background-image: url("images/leaves.jpg");
-    background-size: 100%;
-    background-repeat: repeat;
-    font-family: 'Gloria Hallelujah', cursive;
-    }
+  background-color: lightblue;
+}
 
-p {
-  color: red;
+h1 {
+  color: white;
   text-align: center;
 }
 
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
