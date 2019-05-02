@@ -32,7 +32,6 @@ div.gallery:hover {
 div.gallery img {
   width: 20%;
   height: auto;
-  float: center;
 }
 
 div.desc {
