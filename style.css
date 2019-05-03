@@ -9,6 +9,9 @@ h1 {
 
 header {
   display: block;
+  color: white;
+  text-align: center;
+  background-color: black;
 }
 
 p {
