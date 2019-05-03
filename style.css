@@ -7,6 +7,10 @@ h1 {
   text-align: center;
 }
 
+header {
+  display: block;
+}
+
 p {
   font-family: verdana;
   font-size: 20px;
