@@ -21,3 +21,9 @@ div {
   font-size: 18px;
   color: white;
 }
+
+@media screen and (max-width: 768px) {
+body {
+    min-height: 1240px;
+}
+}
